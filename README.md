@@ -22,4 +22,8 @@ No.	Law / Identity	AND Form	OR Form
 5.Truth table 
 6.MINTERMS and MAXTERMS
 7.Problems related to min/maxterms
+8.K-map
+9.BDS to excess 3
+10.Quine Mc-Clause
+11.Problems
 
